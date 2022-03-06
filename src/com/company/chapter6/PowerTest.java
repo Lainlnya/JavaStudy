@@ -1,4 +1,4 @@
-package com.company.javatest;
+package com.company.chapter6;
 
 public class PowerTest {
     public static void main(String[] args){

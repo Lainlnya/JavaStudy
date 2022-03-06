@@ -1,4 +1,4 @@
-package com.company.javatest;
+package com.company.chapter6;
 
 public class MemberCall {
     int iv = 10;

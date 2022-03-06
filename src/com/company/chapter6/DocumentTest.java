@@ -1,4 +1,4 @@
-package com.company.javatest;
+package com.company.chapter6;
 class Document{
     static int count = 0;
     String name;

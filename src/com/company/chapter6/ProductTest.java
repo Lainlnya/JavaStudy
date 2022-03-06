@@ -1,4 +1,4 @@
-package com.company.javatest;
+package com.company.chapter6;
 
 class Product{
     static int count = 0;
